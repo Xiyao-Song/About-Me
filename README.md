@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Java and a little bit of Julia.
 - ⚡ I am already proficient in SQL, Python and R!
 - 💻 Here is my portfolio: https://xiyao-song.github.io/My-Portfolio/
+- 👉 or you can read them from all my repos
 
 <!---
 Xiyao-Song/Xiyao-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
